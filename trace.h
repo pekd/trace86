@@ -1,0 +1,9 @@
+#ifndef __TRACE_H__
+#define __TRACE_H__
+
+#define TRACE_MAGIC			0xDEADBEEF
+#define	RECORD_REGISTER_DEFINITION	0
+#define	RECORD_REGISTER_DUMP		1
+#define RECORD_END			0xFFFFFFFF
+
+#endif
